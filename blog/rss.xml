@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>EmortalMC Docs Blog</title>
+        <link>https://docs.emortal.dev/blog</link>
+        <description>EmortalMC Docs Blog</description>
+        <lastBuildDate>Mon, 11 Sep 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://docs.emortal.dev/blog/2023/09/11/welcome</link>
+            <guid>https://docs.emortal.dev/blog/2023/09/11/welcome</guid>
+            <pubDate>Mon, 11 Sep 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the EmortalMC Dev Blog!]]></description>
+            <content:encoded><![CDATA[<p>Welcome to the EmortalMC dev blog! Here's where you'll find all the cool behind the scenes information about the
+development of EmortalMC.</p><p>We'll be posting updates here as we make progress on the server, so stay tuned!</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

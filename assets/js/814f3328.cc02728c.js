@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkemortalmc_docs=self.webpackChunkemortalmc_docs||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/2023/09/11/welcome"}]}')}}]);

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.emortal.dev/blog</id>
+    <title>EmortalMC Docs Blog</title>
+    <updated>2023-09-11T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.emortal.dev/blog"/>
+    <subtitle>EmortalMC Docs Blog</subtitle>
+    <icon>https://docs.emortal.dev/https://avatars.githubusercontent.com/emortalmc</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>https://docs.emortal.dev/blog/2023/09/11/welcome</id>
+        <link href="https://docs.emortal.dev/blog/2023/09/11/welcome"/>
+        <updated>2023-09-11T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the EmortalMC Dev Blog!]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the EmortalMC dev blog! Here's where you'll find all the cool behind the scenes information about the
+development of EmortalMC.</p><p>We'll be posting updates here as we make progress on the server, so stay tuned!</p>]]></content>
+        <author>
+            <name>Callum Seabrook</name>
+            <uri>https://github.com/BomBardyGamer</uri>
+        </author>
+        <author>
+            <name>Zak Shearman</name>
+            <uri>https://github.com/yangshun</uri>
+        </author>
+        <author>
+            <name>Emortal</name>
+            <uri>https://github.com/emortaldev</uri>
+        </author>
+    </entry>
+</feed>
